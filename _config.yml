@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/mountain.jpg
+        overlay_image: /assets/images/mountain.png
         overlay_filter: 0.5
   # pages
   - scope:
